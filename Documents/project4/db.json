@@ -1,0 +1,16 @@
+{"cats": [
+    {
+      "id": 1,
+      "name": "cats",
+      "image": "https://cdn2.thecatapi.com/images/ebv.jpg",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "cats",
+      "image": "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg",
+      "votes": 0
+    }
+    
+  ]
+ }
