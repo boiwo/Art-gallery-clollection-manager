@@ -2,13 +2,18 @@ import logo from './logo.svg';
 import './App.css'
 
 function App(){
- return (
-  <div className='ui raised segment'>
-         <div className="ui segment violet inverted">
-        <h2>The Royal Bank of Flatiron</h2>
-      </div>
-  </div>
- )
+  return (
+    <div className='App'>
+      <img src= {logo} className='App-logo' alt='logo' />
+      <p>
+        Edit <code>src/App.js</code> and save to reloaded
+      </p>
+      <a>
+        className = "App-link"
+        href = "href:"
+      </a>
+    </div>
+  )
 
  
 }
