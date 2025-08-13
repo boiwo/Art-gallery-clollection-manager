@@ -5,7 +5,7 @@
       "id": 1,
       "title": "The Starry Night",
       "artist": "Vincent van Gogh",
-      "image": "/images/Starry Night.jpg",
+  "image": "/images/StarryNight.jpg",
       "year": 1889,
       "genre": "Post-Impressionism"
     },
@@ -13,7 +13,7 @@
       "id": 2,
       "title": "Mona Lisa",
       "artist": "Leonardo da Vinci",
-      "image": "/images/Monalisa.jpg",
+  "image": "/images/MonaLisa.jpg",
       "year": 1503,
       "genre": "Renaissance"
     },
@@ -21,7 +21,7 @@
       "id": 3,
       "title": "The Persistence of Memory",
       "artist": "Salvador Dalí",
-      "image": "/images/The_Persistence_of_Memory.jpg",
+  "image": "/images/The_Persistence_of_Memory.jpg",
       "year": 1931,
       "genre": "Surrealism"
     },
@@ -29,7 +29,7 @@
       "id": 4,
       "title": "Girl with a Pearl Earring",
       "artist": "Johannes Vermeer",
-      "image": "/images/Girl With Pearl Earing .jpg",
+  "image": "/images/GirlWithPearlEarring.jpg",
       "year": 1665,
       "genre": "Dutch Golden Age"
     },
@@ -37,7 +37,7 @@
       "id": 5,
       "title": "Irises",
       "artist": "Vincent van Gogh",
-      "image": "/images/irises.jpg",
+  "image": "/images/Irises.jpg",
       "year": 1889,
       "genre": "Post-Impressionism"
     },
@@ -45,7 +45,7 @@
       "id": 6,
       "title": "The Last Supper",
       "artist": "Leonardo da Vinci",
-      "image": "/images/The Last Supper .jpg",
+  "image": "/images/TheLastSupper.jpg",
       "year": 1495,
       "genre": "Renaissance"
     },
@@ -53,7 +53,7 @@
       "id": 7,
       "title": "Impression, Sunrise",
       "artist": "Claude Monet",
-      "image": "/images/Impression Sunrise.jpg",
+  "image": "/images/ImpressionSunrise.jpg",
       "year": 1872,
       "genre": "Impressionism"
     }
